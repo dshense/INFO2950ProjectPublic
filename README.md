@@ -1,4 +1,4 @@
-# INFO2950ProjectPublic
+# INFO 2950 Project (Public)
 In this project, my partner and I formulated a new advanced statistic, "relative Self-Induced Offensive Measurement" (rSIOM), which measures a NBA player's ability to induce and convert offensive opportunities for himself, as well as generate those opportunities for teammates. Additionally, we created various models for analysis, including a multi-class logistic regression of player position on rSIOM and a linear regression of team offensive rating on the maximum rSIOM value per team and season. Furthermore, we implemented a permutation test to find a p-value for our aforementioned linear model's regression slope and utilized bootstrapping to form a 99% confidence interval for the overall f1-score of our logistic classifier. 
 Also, the appendix includes all of our data cleaning and processing.
 If you read the Jupyter notebook files in this repository, you'll notice that the formula for rSIOM is not included. The formula is currently private. So, while we wanted to share our work, the cells which include the actual computation of rSIOM had to be removed from the project prior to releasing it. 
